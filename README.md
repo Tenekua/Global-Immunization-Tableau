@@ -23,7 +23,7 @@ Vaccine-specific time trends
 Public health outcome correlations
 
 👉 Folder: /Project_1_Global_Immunization_Tableau/
-👉 Tableau Dashboard: (Insert your link)
+👉 Tableau Dashboard: (https://public.tableau.com/app/profile/tenekua.dugan)
 
 🧬 Project 2 — HIV Treatment Outcomes Analysis
 
@@ -42,7 +42,7 @@ CD4 threshold risk stratification
 Clinical outcome visualization
 
 👉 Folder: /Project_2_HIV_Treatment_Analytics/
-👉 Tableau Dashboard: (Insert your link)
+👉 Tableau Dashboard: https://public.tableau.com/app/profile/tenekua.dugan
 
 ⚠️ Project 3 — Safety / Adverse Event Signal Explorer
 
@@ -61,7 +61,7 @@ Signal clustering heatmap
 Reporting surveillance trends
 
 👉 Folder: /Project_3_Safety_Signal_Explorer/
-👉 Tableau Dashboard: (Insert your link)
+👉 Tableau Dashboard: https://public.tableau.com/app/profile/tenekua.dugan
 
 🛠 Tools & Skills Demonstrated
 
