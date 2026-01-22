@@ -6,86 +6,66 @@
 ![Pharmacovigilance](https://img.shields.io/badge/Pharmacovigilance-Signal%20Detection-red)
 ![Clinical](https://img.shields.io/badge/Clinical-Data%20Science-purple)
 
-Welcome to my healthcare and scientific analytics portfolio. This repository showcases applied data analytics and visualization projects using real-world public health, clinical, and pharmacovigilance datasets.
+# Analytics Portfolio — Tenekua Dugan
 
-My work emphasizes analytical rigor, interpretability, and regulatory-grade storytelling.
+Welcome to my analytics portfolio. This repository showcases executive-level, healthcare, and business analytics projects built using Tableau, Excel, and strategic data modeling techniques.
 
----
-
-## 🔗 Tableau Public Profile
-
-👉 https://public.tableau.com/app/profile/tenekua.dugan  
+Each project demonstrates practical business insight, domain knowledge, and professional dashboard design.
 
 ---
 
-## 📊 Portfolio Projects
+## 📊 Project Portfolio
 
----
-
-### 🔬 Project 1 — Global Immunization Coverage Analytics  
+### 🔹 Project 1 — Global Immunization Coverage & Child Mortality
 📁 [Project_1_Global_Immunization](./Project_1_Global_Immunization)
 
-Analysis of global vaccination trends using UNICEF and World Bank data, highlighting coverage gaps, equity issues, and child mortality relationships.
+A global public health analytics dashboard integrating WHO/UNICEF immunization coverage data with World Bank child mortality trends to explore vaccine impact across countries and time.
 
 ---
 
-### 🧬 Project 2 — HIV Treatment Outcomes Analytics  
+### 🔹 Project 2 — HIV Treatment Outcomes Analytics
 📁 [Project_2_HIV_Treatment_Analytics](./Project_2_HIV_Treatment_Analytics)
 
-Clinical survival analysis using ACTG Study 175 data, evaluating treatment effectiveness across CD4 thresholds and therapy groups.
+Clinical outcomes dashboard analyzing AIDS Clinical Trials Group data to evaluate treatment effectiveness, CD4 thresholds, and patient survival patterns.
 
 ---
 
-### ⚠️ Project 3 — Safety / Adverse Event Signal Explorer  
-📁 [Project_3_Safety_Signal_Explorer](./Project_3_Safety_Signal_Explorer)
+### 🔹 Project 3 — Safety & Adverse Event Signal Explorer (FAERS)
+📁 [Project_3_Safety_Adverse_Event_Signals](./Project_3_Safety_Adverse_Event_Signals)
 
-Pharmacovigilance dashboard using FAERS Q4-2024 data to detect drug-event safety signals using PRR and ROR metrics.
-
----
-
-## 🛠 Tools & Skills Demonstrated
-
-- Tableau dashboard development  
-- Healthcare and biomedical analytics  
-- Pharmacovigilance signal detection  
-- Clinical data interpretation  
-- Data validation and storytelling  
+Pharmacovigilance dashboard analyzing FAERS adverse event signals using PRR and ROR metrics for drug safety surveillance and signal prioritization.
 
 ---
 
-## 🎯 Portfolio Focus
+### 🔹 Project 4 — Biotech R&D Portfolio Executive Dashboard
+📁 [Project_4_Biotech_Portfolio_Executive_Dashboard](./Project_4_Biotech_Portfolio_Executive_Dashboard)
 
-This portfolio highlights:
-
-- Healthcare analytics  
-- Clinical and public health data  
-- Regulatory-grade visualization  
-- Scientific communication  
-- Decision-support dashboards  
+Executive portfolio analytics dashboard evaluating R&D program risk, value, investment, timelines, and diversification for strategic portfolio governance.
 
 ---
 
-## 👩🏽‍🔬 Author
+## 🌐 Tableau Public Profile
 
-Tenekua Dugan  
-Healthcare & Scientific Analytics  
-
-🔗 LinkedIn: https://www.linkedin.com/in/tenekuadugan  
-🔗 Tableau Public: https://public.tableau.com/app/profile/tenekua.dugan  
+View all interactive dashboards on Tableau Public:  
+👉 https://public.tableau.com/app/profile/tenekua.dugan
 
 ---
 
-## 📌 Repository Structure
+## 🎯 Portfolio Focus Areas
 
-Each project folder contains:
-
-- Project README  
-- Tableau dashboard link  
-- Dataset documentation  
-- Analytical notes  
+- Executive dashboard design  
+- Healthcare & biotech analytics  
+- Portfolio and strategy analytics  
+- Risk and value modeling  
+- KPI development  
+- Data storytelling  
 
 ---
 
-## 🚀 How to Explore
+## 📌 About Me
 
-Click any project folder above to view full project documentation and live dashboards.
+I am a biotech and analytics professional with deep experience in translational science, portfolio strategy, and data-driven decision support. My work focuses on bridging scientific insight with executive analytics.
+
+---
+
+Thank you for reviewing my portfolio.
