@@ -1,88 +1,91 @@
-Healthcare & Scientific Analytics Portfolio
+# Healthcare & Scientific Analytics Portfolio  
+**Tenekua Dugan**
 
-Tenekua Dugan
+![Tableau](https://img.shields.io/badge/Tableau-Visualization-blue)
+![Healthcare](https://img.shields.io/badge/Healthcare-Analytics-green)
+![Pharmacovigilance](https://img.shields.io/badge/Pharmacovigilance-Signal%20Detection-red)
+![Clinical](https://img.shields.io/badge/Clinical-Data%20Science-purple)
 
-Welcome to my healthcare and scientific analytics portfolio. This repository showcases applied data analysis and visualization projects using real-world public health, clinical, and pharmacovigilance datasets.
+Welcome to my healthcare and scientific analytics portfolio. This repository showcases applied data analytics and visualization projects using real-world public health, clinical, and pharmacovigilance datasets.
 
 My work emphasizes analytical rigor, interpretability, and regulatory-grade storytelling.
 
-🔗 Tableau Public Profile
+---
 
-👉 https://public.tableau.com/app/profile/tenekua.dugan
+## 🔗 Tableau Public Profile
 
-📊 Portfolio Projects
-🔬 Project 1 — Global Immunization Coverage Analytics
+👉 https://public.tableau.com/app/profile/tenekua.dugan  
 
-Focus: Global vaccination trends, equity gaps, and public health outcomes
+---
 
-📁 Project Folder:
-👉 Project_1_Global_Immunization_Tableau
+## 📊 Portfolio Projects
 
-This project analyzes UNICEF immunization coverage data across multiple vaccines and regions, combined with World Bank child mortality indicators.
+---
 
-🧬 Project 2 — HIV Treatment Outcomes Analysis
+### 🔬 Project 1 — Global Immunization Coverage Analytics  
+📁 [Project_1_Global_Immunization](./Project_1_Global_Immunization)
 
-Focus: Clinical treatment effectiveness and survival outcomes
+Analysis of global vaccination trends using UNICEF and World Bank data, highlighting coverage gaps, equity issues, and child mortality relationships.
 
-📁 Project Folder:
-👉 Project_2_HIV_Treatment_Analytics
+---
 
-This project evaluates survival outcomes across antiretroviral treatment groups, CD4 thresholds, and patient characteristics using ACTG Study 175 data.
+### 🧬 Project 2 — HIV Treatment Outcomes Analytics  
+📁 [Project_2_HIV_Treatment_Analytics](./Project_2_HIV_Treatment_Analytics)
 
-⚠️ Project 3 — Safety / Adverse Event Signal Explorer
+Clinical survival analysis using ACTG Study 175 data, evaluating treatment effectiveness across CD4 thresholds and therapy groups.
 
-Focus: Pharmacovigilance signal detection and surveillance
+---
 
-📁 Project Folder:
-👉 Project_3_Safety_Signal_Explorer
+### ⚠️ Project 3 — Safety / Adverse Event Signal Explorer  
+📁 [Project_3_Safety_Signal_Explorer](./Project_3_Safety_Signal_Explorer)
 
-This project analyzes FDA FAERS adverse event data using PRR and ROR disproportionality metrics to identify potential drug-event safety signals and reporting patterns.
+Pharmacovigilance dashboard using FAERS Q4-2024 data to detect drug-event safety signals using PRR and ROR metrics.
 
-🛠 Tools & Skills Demonstrated
+---
 
-Tableau dashboard design & storytelling
+## 🛠 Tools & Skills Demonstrated
 
-Healthcare and biomedical data analytics
+- Tableau dashboard development  
+- Healthcare and biomedical analytics  
+- Pharmacovigilance signal detection  
+- Clinical data interpretation  
+- Data validation and storytelling  
 
-Pharmacovigilance signal detection concepts
+---
 
-Clinical and public health data interpretation
-
-Data validation and visualization best practices
-
-🎯 Portfolio Focus
+## 🎯 Portfolio Focus
 
 This portfolio highlights:
 
-Healthcare analytics
+- Healthcare analytics  
+- Clinical and public health data  
+- Regulatory-grade visualization  
+- Scientific communication  
+- Decision-support dashboards  
 
-Biomedical and clinical data interpretation
+---
 
-Regulatory-grade visualization
+## 👩🏽‍🔬 Author
 
-Analytical decision-making
+Tenekua Dugan  
+Healthcare & Scientific Analytics  
 
-Clear communication of complex scientific data
+🔗 LinkedIn: https://www.linkedin.com/in/tenekuadugan  
+🔗 Tableau Public: https://public.tableau.com/app/profile/tenekua.dugan  
 
-👩🏽‍🔬 About Me
+---
 
-Tenekua Dugan
-Healthcare & Scientific Analytics
-
-🔗 LinkedIn: https://www.linkedin.com/in/tenekuadugan
-
-🔗 Tableau Public: https://public.tableau.com/app/profile/tenekua.dugan
-
-📌 Repository Structure
+## 📌 Repository Structure
 
 Each project folder contains:
 
-Tableau dashboard link
+- Project README  
+- Tableau dashboard link  
+- Dataset documentation  
+- Analytical notes  
 
-Project-specific README
+---
 
-Supporting notes and documentation
+## 🚀 How to Explore
 
-🚀 How to Use This Portfolio
-
-Recruiters and collaborators can explore each project folder above to view detailed documentation and live Tableau dashboards.
+Click any project folder above to view full project documentation and live dashboards.
