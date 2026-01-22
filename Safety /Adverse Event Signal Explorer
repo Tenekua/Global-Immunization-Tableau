@@ -1,0 +1,53 @@
+Safety / Adverse Event Signal Explorer
+
+Pharmacovigilance Analytics Dashboard (FAERS Q4-2024)
+
+Overview
+
+This project presents an interactive pharmacovigilance dashboard built using FDA FAERS adverse event data to support drug safety signal detection, prioritization, and surveillance.
+
+The dashboard integrates disproportionality metrics (PRR and ROR) with reporting volume to identify potential drug–event safety signals while maintaining analytical transparency and regulatory-grade interpretability.
+
+Objectives
+
+Detect potential adverse event safety signals using PRR and ROR
+
+Prioritize high-risk drug–event combinations
+
+Visualize signal clustering and reporting patterns
+
+Monitor quarterly reporting trends for surveillance context
+
+Key Features
+
+Top Adverse Events by Reports
+
+Top Drugs by Reports
+
+PRR vs ROR Signal Detection Scatter Plot
+
+High-Risk Safety Signal Review Table
+
+Signal Strength Heatmap (PRR intensity)
+
+Quarterly Reporting Trend (Q3–Q4 2024)
+
+Signal metrics are available for Q4-2024 only. Reporting trends include Q3–Q4 to provide surveillance context.
+
+Dashboard Design Principles
+
+Separation of exposure frequency and disproportionality signal strength
+
+Transparent handling of temporal data availability
+
+Interactive filtering by drug and adverse event
+
+Interpretive annotations to prevent analytical misinterpretation
+
+Tools Used
+
+Tableau Public
+
+FAERS adverse event datasets
+
+Disproportionality signal metrics (PRR, ROR)
