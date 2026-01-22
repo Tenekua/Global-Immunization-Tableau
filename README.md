@@ -1,12 +1,3 @@
-Absolutely — here is your fully updated, clickable, recruiter-friendly GitHub main README.md, with:
-
-✔ Clickable project folders
-✔ Your Tableau Public profile link
-✔ Clear structure for scanning
-✔ Professional tone aligned with healthcare / scientific analytics
-
-You can copy-paste this directly into your root README.md.
-
 Healthcare & Scientific Analytics Portfolio
 
 Tenekua Dugan
@@ -17,75 +8,35 @@ My work emphasizes analytical rigor, interpretability, and regulatory-grade stor
 
 🔗 Tableau Public Profile
 
-👉 Tableau Public:
-https://public.tableau.com/app/profile/tenekua.dugan
+👉 https://public.tableau.com/app/profile/tenekua.dugan
 
 📊 Portfolio Projects
 🔬 Project 1 — Global Immunization Coverage Analytics
 
 Focus: Global vaccination trends, equity gaps, and public health outcomes
 
-This project analyzes UNICEF immunization coverage data across multiple vaccines and regions, combined with World Bank child mortality indicators.
-
-Key topics:
-
-Global vaccine coverage trends
-
-Regional disparities
-
-Vaccine-specific time trends
-
-Public health outcome correlations
-
-📁 Folder:
+📁 Project Folder:
 👉 Project_1_Global_Immunization_Tableau
 
-📊 Dashboard:
-👉 (Link in project folder)
+This project analyzes UNICEF immunization coverage data across multiple vaccines and regions, combined with World Bank child mortality indicators.
 
 🧬 Project 2 — HIV Treatment Outcomes Analysis
 
 Focus: Clinical treatment effectiveness and survival outcomes
 
-Using the AIDS Clinical Trials Group Study 175 dataset, this project evaluates survival outcomes across antiretroviral treatment groups, CD4 thresholds, and patient characteristics.
-
-Key topics:
-
-Treatment group comparisons
-
-Failure probability analysis
-
-CD4 risk stratification
-
-Clinical outcome visualization
-
-📁 Folder:
+📁 Project Folder:
 👉 Project_2_HIV_Treatment_Analytics
 
-📊 Dashboard:
-👉 (Link in project folder)
+This project evaluates survival outcomes across antiretroviral treatment groups, CD4 thresholds, and patient characteristics using ACTG Study 175 data.
 
 ⚠️ Project 3 — Safety / Adverse Event Signal Explorer
 
 Focus: Pharmacovigilance signal detection and surveillance
 
-This project analyzes FDA FAERS adverse event data using disproportionality metrics (PRR, ROR) and reporting volume to identify potential drug-event safety signals.
-
-Key topics:
-
-Signal detection (PRR vs ROR)
-
-High-risk signal prioritization
-
-Signal clustering heatmap
-
-Reporting surveillance trends
-
-📁 Folder:
+📁 Project Folder:
 👉 Project_3_Safety_Signal_Explorer
 
-📊 Dashboard:
-👉 (Link in project folder)
+This project analyzes FDA FAERS adverse event data using PRR and ROR disproportionality metrics to identify potential drug-event safety signals and reporting patterns.
 
 🛠 Tools & Skills Demonstrated
 
@@ -132,16 +83,6 @@ Project-specific README
 
 Supporting notes and documentation
 
-🚀 How This Portfolio Can Be Used
+🚀 How to Use This Portfolio
 
-This portfolio is intended for:
-
-Healthcare analytics roles
-
-Biomedical data science roles
-
-Clinical research analytics
-
-Pharmacovigilance and safety analytics
-
-Public health data analysis
+Recruiters and collaborators can explore each project folder above to view detailed documentation and live Tableau dashboards.
