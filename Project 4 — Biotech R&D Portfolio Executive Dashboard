@@ -1,0 +1,37 @@
+# Biotech R&D Portfolio Executive Dashboard
+
+## Overview
+This project presents an executive-level Tableau dashboard designed to support strategic decision-making across a biotech R&D portfolio. It integrates risk, value, investment, timelines, and diversification into a unified portfolio intelligence platform.
+
+## Key Business Questions Addressed
+- Which programs offer the best risk–value balance?
+- How is capital allocated across development phases?
+- Where are portfolio concentration risks?
+- Which programs are long-term, high-risk investments?
+- How diversified is the therapeutic pipeline?
+
+## Dashboard Features
+- KPI cards for portfolio scale, value, investment, and success probability  
+- Risk vs Value Portfolio Map with executive thresholds  
+- Budget Allocation by Development Phase  
+- Timeline Risk Map (Time to Market vs Risk)  
+- Program Distribution by Therapeutic Area  
+- Interactive executive filters for scenario analysis  
+
+## Tools & Skills Demonstrated
+- Tableau dashboard design for executive audiences  
+- Portfolio analytics and strategic visualization  
+- KPI development and business interpretation  
+- Scenario-based filtering and reference thresholds  
+- Biotech portfolio domain modeling  
+
+## Business Value
+This dashboard simulates how portfolio governance teams evaluate R&D pipelines for prioritization, capital deployment, and long-term strategic alignment.
+
+## Live Dashboard
+View on Tableau Public:  
+👉 https://public.tableau.com/app/profile/tenekua.dugan
+
+## Author
+Tenekua Dugan  
+Biotech Portfolio & Analytics Professional
