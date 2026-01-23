@@ -8,64 +8,80 @@
 
 # Analytics Portfolio — Tenekua Dugan
 
-Welcome to my analytics portfolio. This repository showcases executive-level, healthcare, and business analytics projects built using Tableau, Excel, and strategic data modeling techniques.
+# Tableau Analytics Portfolio – Tenekua Dugan
 
-Each project demonstrates practical business insight, domain knowledge, and professional dashboard design.
+This repository showcases a curated portfolio of Tableau dashboards demonstrating expertise in data analytics, visualization, and executive storytelling across public health, clinical research, pharmacovigilance, biotech R&D, and business operations.
+
+Each project includes a detailed README describing objectives, data sources, and key insights.
+
+## 🔗 Tableau Public Profile
+View all interactive dashboards here:  
+https://public.tableau.com/app/profile/tenekua.dugan
 
 ---
 
-## 📊 Project Portfolio
+## 📊 Portfolio Projects
 
-### 🔹 Project 1 — Global Immunization Coverage & Child Mortality
+### 🔹 Project 1: Global Immunization Coverage & Child Mortality
 📁 [Project_1_Global_Immunization](./Project_1_Global_Immunization)
 
-A global public health analytics dashboard integrating WHO/UNICEF immunization coverage data with World Bank child mortality trends to explore vaccine impact across countries and time.
+- Global immunization coverage trends by antigen and region  
+- Integration of WHO/UNICEF and World Bank under-5 mortality data  
+- Longitudinal and regional impact analysis  
+- Public health analytics and policy-focused insights
 
 ---
 
-### 🔹 Project 2 — HIV Treatment Outcomes Analytics
+### 🔹 Project 2: HIV Treatment Analytics
 📁 [Project_2_HIV_Treatment_Analytics](./Project_2_HIV_Treatment_Analytics)
 
-Clinical outcomes dashboard analyzing AIDS Clinical Trials Group data to evaluate treatment effectiveness, CD4 thresholds, and patient survival patterns.
+- Analysis of treatment outcomes across HIV therapeutic regimens  
+- Survival, CD4 response, and treatment comparison visualizations  
+- Clinical trial-style analytics using patient-level data  
+- Translational and clinical analytics focus
 
 ---
 
-### 🔹 Project 3 — Safety & Adverse Event Signal Explorer (FAERS)
+### 🔹 Project 3: Safety / Adverse Event Signal Explorer
 📁 [Project_3_Safety_Adverse_Event_Signals](./Project_3_Safety_Adverse_Event_Signals)
 
-Pharmacovigilance dashboard analyzing FAERS adverse event signals using PRR and ROR metrics for drug safety surveillance and signal prioritization.
+- Pharmacovigilance signal detection using FDA FAERS data  
+- PRR vs ROR disproportionality analysis  
+- High-risk drug–event signal prioritization  
+- Signal strength heatmaps and quarterly reporting trends
 
 ---
 
-### 🔹 Project 4 — Biotech R&D Portfolio Executive Dashboard
+### 🔹 Project 4: Biotech Portfolio Executive Dashboard
 📁 [Project_4_Biotech_Portfolio_Executive_Dashboard](./Project_4_Biotech_Portfolio_Executive_Dashboard)
 
-Executive portfolio analytics dashboard evaluating R&D program risk, value, investment, timelines, and diversification for strategic portfolio governance.
+- Executive-level R&D portfolio KPIs  
+- Risk vs value portfolio mapping  
+- Budget allocation by development phase  
+- Timeline risk and long-term exposure analysis  
+- Strategic portfolio decision support
 
 ---
 
-## 🌐 Tableau Public Profile
+### 🔹 Project 5: Subscription Business Executive Dashboard
+📁 [Project_5_Subscription_Business_Executive_Dashboard](./Project_5_Subscription_Business_Executive_Dashboard)
 
-View all interactive dashboards on Tableau Public:  
-👉 https://public.tableau.com/app/profile/tenekua.dugan
-
----
-
-## 🎯 Portfolio Focus Areas
-
-- Executive dashboard design  
-- Healthcare & biotech analytics  
-- Portfolio and strategy analytics  
-- Risk and value modeling  
-- KPI development  
-- Data storytelling  
+- Subscription business and SaaS-style analytics  
+- Core KPIs: customers, MRR, churn rate, CLV  
+- Revenue growth and retention performance  
+- Churn analysis by plan and customer value segmentation  
+- General business and operations dashboard example
 
 ---
 
-## 📌 About Me
-
-I am a biotech and analytics professional with deep experience in translational science, portfolio strategy, and data-driven decision support. My work focuses on bridging scientific insight with executive analytics.
+## 🛠 Tools & Skills Demonstrated
+- Tableau Public (advanced dashboards, KPIs, filters, parameters)
+- Data modeling and preparation (Excel)
+- Executive analytics storytelling
+- Public health, clinical, and business analytics
+- Portfolio-quality data visualization
 
 ---
 
-Thank you for reviewing my portfolio.
+## 📌 Notes
+All dashboards are built for analytical demonstration purposes using public or simulated datasets and do not represent clinical, regulatory, or commercial decisions.
