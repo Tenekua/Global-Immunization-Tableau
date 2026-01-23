@@ -1,3 +1,6 @@
+## Dashboard Preview
+
+![Dashboard Overview](screenshots/P1_dashboard_overview.png)
 # Global Immunization Coverage & Child Mortality 
 
 ## Overview
