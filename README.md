@@ -6,7 +6,6 @@
 ![Pharmacovigilance](https://img.shields.io/badge/Pharmacovigilance-Signal%20Detection-red)
 ![Clinical](https://img.shields.io/badge/Clinical-Data%20Science-purple)
 
-# Analytics Portfolio — Tenekua Dugan
 
 # Tableau Analytics Portfolio – Tenekua Dugan
 
