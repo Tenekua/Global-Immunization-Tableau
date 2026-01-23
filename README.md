@@ -1,10 +1,15 @@
 # Healthcare & Scientific Analytics Portfolio  
 **Tenekua Dugan**
 
-![Tableau](https://img.shields.io/badge/Tableau-Visualization-blue)
-![Healthcare](https://img.shields.io/badge/Healthcare-Analytics-green)
-![Pharmacovigilance](https://img.shields.io/badge/Pharmacovigilance-Signal%20Detection-red)
-![Clinical](https://img.shields.io/badge/Clinical-Data%20Science-purple)
+![Tableau](https://img.shields.io/badge/Tableau-blue)
+![Visualization](https://img.shields.io/badge/Visualization-teal)
+![Healthcare](https://img.shields.io/badge/Healthcare-lightgrey)
+![Analytics](https://img.shields.io/badge/Analytics-green)
+![Pharmacovigilance](https://img.shields.io/badge/Pharmacovigilance-orange)
+![Signal%20Detection](https://img.shields.io/badge/Signal%20Detection-red)
+![Clinical](https://img.shields.io/badge/Clinical-purple)
+![Data%20Science](https://img.shields.io/badge/Data%20Science-magenta)
+![Business%20Analytics](https://img.shields.io/badge/Business%20Analytics-blueviolet)
 
 
 # Tableau Analytics Portfolio – Tenekua Dugan
