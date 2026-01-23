@@ -1,4 +1,4 @@
-# Global Immunization Coverage & Child Mortality (Tableau)
+# Global Immunization Coverage & Child Mortality 
 
 ## Overview
 This project analyzes global immunization coverage trends and under-5 mortality using WHO/UNICEF and World Bank datasets.
