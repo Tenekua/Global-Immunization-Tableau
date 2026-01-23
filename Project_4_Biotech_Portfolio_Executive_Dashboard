@@ -1,37 +1,35 @@
-# Biotech R&D Portfolio Executive Dashboard
+# Biotech Portfolio Executive Dashboard
+
+## R&D Portfolio Risk, Value & Investment Strategy
 
 ## Overview
-This project presents an executive-level Tableau dashboard designed to support strategic decision-making across a biotech R&D portfolio. It integrates risk, value, investment, timelines, and diversification into a unified portfolio intelligence platform.
+This project simulates an executive-level biotech R&D portfolio dashboard designed to support strategic decision-making across pipeline risk, value, budget allocation, and development timelines.
 
-## Key Business Questions Addressed
-- Which programs offer the best risk–value balance?
-- How is capital allocated across development phases?
-- Where are portfolio concentration risks?
-- Which programs are long-term, high-risk investments?
-- How diversified is the therapeutic pipeline?
+The dashboard enables portfolio leaders to assess investment efficiency, risk exposure, and program prioritization.
 
-## Dashboard Features
-- KPI cards for portfolio scale, value, investment, and success probability  
-- Risk vs Value Portfolio Map with executive thresholds  
-- Budget Allocation by Development Phase  
-- Timeline Risk Map (Time to Market vs Risk)  
-- Program Distribution by Therapeutic Area  
-- Interactive executive filters for scenario analysis  
+## Objectives
+- Provide executive KPI visibility across the R&D portfolio
+- Evaluate risk versus expected value across programs
+- Analyze budget allocation by development phase
+- Assess timeline risk and long-term exposure
 
-## Tools & Skills Demonstrated
-- Tableau dashboard design for executive audiences  
-- Portfolio analytics and strategic visualization  
-- KPI development and business interpretation  
-- Scenario-based filtering and reference thresholds  
-- Biotech portfolio domain modeling  
+## Key Features
+- Executive KPI cards (Programs, Budget, Revenue, Success Rate)
+- Risk vs Value portfolio map
+- Budget allocation by development phase
+- Program distribution by therapeutic area
+- Timeline risk map with threshold indicators
 
-## Business Value
-This dashboard simulates how portfolio governance teams evaluate R&D pipelines for prioritization, capital deployment, and long-term strategic alignment.
+## Data
+- Simulated biotech portfolio dataset for demonstration purposes
+
+## Tools Used
+- Tableau Public
+- Excel (data modeling)
 
 ## Live Dashboard
-View on Tableau Public:  
-👉 https://public.tableau.com/app/profile/tenekua.dugan
+Tableau Public:  
+https://public.tableau.com/app/profile/tenekua.dugan
 
-## Author
-Tenekua Dugan  
-Biotech Portfolio & Analytics Professional
+## Notes
+This dashboard is a fictional portfolio created for analytical and visualization purposes only.
