@@ -1,6 +1,6 @@
 ## Dashboard Preview
 
-![Dashboard Overview](screenshots/P1_dashboard_overview.png)
+![Dashboard Overview](screenshots/P4_dashboard_overview.png)
 Executive-level portfolio dashboard evaluating R&D investment risk, value, timelines, and therapeutic area distribution.
 # Biotech Portfolio Executive Dashboard
 
