@@ -1,6 +1,7 @@
 ## Dashboard Preview
 
 ![Dashboard Overview](screenshots/P2_dashboard_overview.png)
+Clinical analytics dashboard examining HIV treatment outcomes, failure risk factors, and time-to-failure across treatment regimens.
 # HIV Treatment Failure Risk Analysis (ACTG 175)
 
 ## Overview
