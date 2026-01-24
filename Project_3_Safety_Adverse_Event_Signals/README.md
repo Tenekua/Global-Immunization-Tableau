@@ -1,3 +1,7 @@
+## Dashboard Preview
+
+![Dashboard Overview](screenshots/P3_dashboard_overview.png)
+Pharmacovigilance dashboard integrating PRR and ROR metrics to identify, prioritize, and monitor potential drug safety signals.
 # Safety / Adverse Event Signal Explorer
 
 ## Pharmacovigilance Analytics Dashboard (FAERS Q4-2024)
