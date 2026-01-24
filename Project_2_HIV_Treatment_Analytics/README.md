@@ -1,3 +1,6 @@
+## Dashboard Preview
+
+![Dashboard Overview](screenshots/P2_dashboard_overview.png)
 # HIV Treatment Failure Risk Analysis (ACTG 175)
 
 ## Overview
