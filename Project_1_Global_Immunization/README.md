@@ -1,6 +1,7 @@
 ## Dashboard Preview
 
 ![Dashboard Overview](screenshots/P1_dashboard_overview.png)
+Interactive analysis of global vaccine coverage trends and their relationship to under-5 mortality using WHO/UNICEF and World Bank data.
 # Global Immunization Coverage & Child Mortality 
 
 ## Overview
