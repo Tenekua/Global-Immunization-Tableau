@@ -1,3 +1,7 @@
+## Dashboard Preview
+
+![Dashboard Overview](screenshots/P5_dashboard_overview.png)
+Business performance dashboard analyzing revenue growth, churn risk, customer lifetime value, and subscription plan dynamics.
 # Subscription Business Executive Dashboard
 
 ## Revenue Growth, Churn & Customer Value Analytics
